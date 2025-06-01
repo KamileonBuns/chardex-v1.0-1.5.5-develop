@@ -15,9 +15,9 @@ let charadex = {};
 /* Any preview links will still show Charadex's information
 /* ==================================================================== */
 charadex.site = {
-  title: "Charadex",
+  title: "Era's End",
   url: "https://eras-end.netlify.app/",
-  description: `A tool for organizing small ARPGs and species.`
+  description: `The story of Era's end is about Feyladie! a world in ruin after one of their deities got struck down by a bitter immortal.`
 }
 
 /* ==================================================================== */
