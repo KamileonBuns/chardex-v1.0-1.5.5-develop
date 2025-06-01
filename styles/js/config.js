@@ -17,7 +17,7 @@ let charadex = {};
 charadex.site = {
   title: "Era's End",
   url: "https://eras-end.netlify.app/",
-  description: `The story of Era's end is about Feyladie! a world in ruin after one of their deities got struck down by a bitter immortal.`
+  description: `The story of Era's End is about Feyladie, a world in ruin after a deity got struck down by a bitter immortal.`
 }
 
 /* ==================================================================== */
