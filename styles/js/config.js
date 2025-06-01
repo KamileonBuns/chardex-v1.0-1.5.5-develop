@@ -45,7 +45,7 @@ charadex.sheet = {
     designTypes: ['All', 'Official Design', 'Guest Design', 'MYO Slot', 'MYO Design'],
     statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased'],
     rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Sparse', 'Extinct', 'Old world'],
-    species: ['All', 'Wakatrick', 'Virus', 'Sentinel'],
+    species: ['All', 'Wakatrick', 'Clockmaw', 'ArcNyx', 'Greetabye','Axiot,'],
     itemTypes: ['All', 'Currency', 'MYO Slot', 'Trinket', 'Trait', 'Misc'],
     traitTypes: ['All', 'Texture', 'Mod', 'Upgrade', 'Oddity', 'Virus', 'Old World', 'Misc']
 
