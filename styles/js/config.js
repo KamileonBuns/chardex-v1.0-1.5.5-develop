@@ -44,10 +44,10 @@ charadex.sheet = {
 
     designTypes: ['All', 'Official Design', 'Guest Design', 'MYO Slot', 'MYO Design'],
     statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased'],
-    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Sparse', 'Extinct', 'Old world'],
-    species: ['All', 'Wakatrick', 'Clockmaw', 'ArcNyx', 'Greetabye','Axiot,'],
+    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Mtythical', 'Ethereal', 'Mutatiom', 'Unseen', 'Affliction', 'Veil-Touched',],
+    species: ['All', 'Wakatrick', 'Clockmaw', 'ArcNyx', 'Greetabye','Tarazoa',],
     itemTypes: ['All', 'Currency', 'MYO Slot', 'Trinket', 'Trait', 'Misc'],
-    traitTypes: ['All', 'Texture', 'Mod', 'Upgrade', 'Oddity', 'Virus', 'Old World', 'Misc']
+    traitTypes: ['All', 'Wakatrick traits', 'Clockmaw Traits', 'ArcNyx Traits', 'Greetabye Traits', 'Tarazoa Traits', 'Universal',]
 
   }
 
