@@ -46,8 +46,8 @@ charadex.sheet = {
     statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased'],
     rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Sparse', 'Extinct', 'Old world'],
     species: ['All', 'Wakatrick', 'Virus', 'Sentinel'],
-    itemTypes: ['All', 'Currency', 'MYO Slot', 'Pet', 'Trait', 'Misc'],
-    traitTypes: ['All', 'Ears', 'Eyes', 'Body', 'Limbs', 'Tails', 'Misc', 'Mutations']
+    itemTypes: ['All', 'Currency', 'MYO Slot', 'Trinket', 'Trait', 'Misc'],
+    traitTypes: ['All', 'Texture', 'Mod', 'Upgrade', 'Oddity', 'Virus', 'Old World', 'Misc']
 
   }
 
