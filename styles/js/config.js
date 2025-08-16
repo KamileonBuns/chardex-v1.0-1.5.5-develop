@@ -17,7 +17,7 @@ let charadex = {};
 charadex.site = {
   title: "Era's End",
   url: "https://eras-end.netlify.app/",
-  description: `The story of Era's End is about Feyladie, a world in ruin after a deity got struck down by a bitter immortal.`
+  description: `A ML for a bunch of different projects and stories because dA sucks, including Feyladie & Wakatrics!`
 }
 
 /* ==================================================================== */
@@ -44,10 +44,10 @@ charadex.sheet = {
 
     designTypes: ['All', 'Official Design', 'Guest Design', 'MYO Slot', 'MYO Design'],
     statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased'],
-    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Mtythical', 'Ethereal', 'Mutatiom', 'Unseen', 'Affliction', 'Veil-Touched',],
-    species: ['All', 'Wakatrick', 'Clockmaw', 'ArcNyx', 'Greetabye','Tarazoa',],
+    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Mtythical', 'Ethereal', 'Mutatiom', 'Unseen', 'Affliction', 'Veil-Touched','sparse', 'error', 'virus'],
+    species: ['All', 'Wakatrick', 'Clockmaw', 'ArcNyx', 'Greetabye',],
     itemTypes: ['All', 'Currency', 'MYO Slot', 'Trinket', 'Trait', 'Misc'],
-    traitTypes: ['All', 'Wakatrick traits', 'Clockmaw Traits', 'ArcNyx Traits', 'Greetabye Traits', 'Tarazoa Traits', 'Universal',]
+    traitTypes: ['All', 'Wakatrick traits', 'Clockmaw Traits', 'ArcNyx Traits', 'Greetabye Traits','Universal','[WK]Texture', '[WK]Required', '[WK]untraited','[WK]Upgrade', '[WK]Enhancement', '[WK] Error', '[WK]Virus related']
 
   }
 
