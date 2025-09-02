@@ -21,14 +21,14 @@ body {
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color: #9d86d5;
+  --cd-secondary-color: #b49eec;
   --cd-secondary-text-color: #eddeff;
 
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
   --cd-body-background-color: #24233d;
-  --cd-content-background-color: #545bb0;
+  --cd-content-background-color: #3c4286;
   --cd-faded-background-color: #a2a0ff;
 
   /* Background Extras */
