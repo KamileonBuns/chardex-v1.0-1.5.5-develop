@@ -22,7 +22,7 @@ body {
   /* Secondary Color
   ================================================================ */
   --cd-secondary-color: #9d86d5;
-  --cd-secondary-text-color: #b085e2;
+  --cd-secondary-text-color: #eddeff;
 
   /* ============================================================= */
   /* Backgrounds
@@ -125,7 +125,7 @@ body {
   /* Link
   ================================================================ */
 
-  --cd-link-text-color: #4c8ebd;
+  --cd-link-text-color: #d7c8f5;
   --cd-link-text-color-hover: var(--cd-secondary-color);
 
 
