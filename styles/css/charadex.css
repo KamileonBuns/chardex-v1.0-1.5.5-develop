@@ -15,21 +15,21 @@ body {
   /* ============================================================= */
   /* Primary Color
   ================================================================ */
-  --cd-primary-color: #8FB7D4;
+  --cd-primary-color: #b995f3;
   --cd-primary-text-color: #fff;
 
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color: #939799;
-  --cd-secondary-text-color: #fff;
+  --cd-secondary-color: #9d86d5;
+  --cd-secondary-text-color: #b085e2;
 
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
   --cd-body-background-color: #24233d;
   --cd-content-background-color: #494f8c;
-  --cd-faded-background-color: #8e8cf5;
+  --cd-faded-background-color: #7270cc;
 
   /* Background Extras */
   --cd-body-background-image: url();
@@ -37,8 +37,8 @@ body {
   /* ============================================================= */
   /* Text
   ================================================================ */
-  --cd-body-text-color: #303030;
-  --cd-faded-text-color: #575757;
+  --cd-body-text-color: #7270cc;
+  --cd-faded-text-color: #7270cc;
 
   /* ============================================================= */
   /* Borders
