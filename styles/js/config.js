@@ -44,7 +44,7 @@ charadex.sheet = {
 
     designTypes: ['All', 'Official Design', 'Guest Design', 'MYO Slot', 'MYO Design'],
     statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased'],
-    rarity: ['All', 'Sparse', 'Error', 'Virus', 'Restricted', 'Permitted'],
+    rarity: ['All', 'Sparse', 'Error', 'Virus', ],
     species: ['All', 'Wakatrick', 'Moka', 'Zoa', 'Clockmaw', 'ArcNyx', 'Greetabye', ],
     itemTypes: ['All', 'Currency', 'MYO Slot', 'Trinket', 'Trait upgrade', 'Enhancement Chip','Event'],
     traitTypes: ['All', 'Texture', 'Upgrade', 'Enhancement', 'Error', 'Virus related']
