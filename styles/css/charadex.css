@@ -25,10 +25,6 @@ body {
   --cd-secondary-text-color: #eddeff;
 
   /* ============================================================= */
-  /* Backgrounds
-  ================================================================ */
-  --cd-body-background-color: #2a284f;
-  --cd-content-background-color: #454c9c;
   --cd-faded-background-color: #0f0e2e;
 
   /* Background Extras */
@@ -37,7 +33,7 @@ body {
   /* ============================================================= */
   /* Text
   ================================================================ */
-  --cd-body-text-color: #7270cc;
+  --cd-body-text-color: #9492e3;
   --cd-faded-text-color: #ffffff;
 
   /* ============================================================= */
